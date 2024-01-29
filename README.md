@@ -14,7 +14,7 @@ Este repositorio proporciona una estructura básica para un proyecto de ciencia 
 ## Guía Rápida
 
 ### Requisitos
-- Python 3.x
+- Python 3.9
 - Bibliotecas necesarias (pueden instalarse usando `pip install -r requirements.txt`)
 
 ### Uso
